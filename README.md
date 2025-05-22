@@ -12,3 +12,6 @@ Welcome to my CSDN blog to download and give it a try!  (Chargeable, 30 days tri
 Requirements: Windows 10 or 11, LabVIEW>=2018, 32 or 64 bits. 
 
 ![img1](1.png)
+![img2](2.png)
+![img3](3.png)
+![img4](4.png)
