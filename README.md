@@ -10,3 +10,5 @@ Welcome to my CSDN blog to download and give it a try!  (Chargeable, 30 days tri
 [https://blog.csdn.net/VIRobotics_MR/article/details/145945814](https://blog.csdn.net/VIRobotics_MR/article/details/145945814)
 
 Requirements: Windows 10 or 11, LabVIEW>=2018, 32 or 64 bits. 
+
+![img1](1.png)
